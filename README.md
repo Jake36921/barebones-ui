@@ -1,5 +1,5 @@
 # barebones-ui
-Quite literally a barebones ui made using kivy that allows you to save, load, and clear chat history when connected to the oobabooga text gen api.
+Quite literally a barebones ui made using kivy that allows you to chat, save, load, and clear chat history when connected to the oobabooga text gen api.
 
 Completely made by an amataur at coding in python
 
