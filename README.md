@@ -21,6 +21,6 @@ check if api is online
 
 better ui
 
-change api in menu
+ability to change api in menu
 
 prob more
