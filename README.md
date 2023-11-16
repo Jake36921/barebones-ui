@@ -21,4 +21,6 @@ check if api is online
 
 better ui
 
+change api in menu
+
 prob more
