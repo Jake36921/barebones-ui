@@ -2,4 +2,4 @@ kivy
 kivymd
 requests
 pypi-json
-tkinter
+tk
