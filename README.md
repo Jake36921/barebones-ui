@@ -16,6 +16,7 @@ The Api url is inside main.py, change it to your oobabooga openai api
 ---
 >python main.py
 
+---
 
 >to do list
 
