@@ -3,7 +3,7 @@ Quite literally a barebones ui made using kivy that allows you to chat, save, lo
 
 Completely made by an amataur at coding in python
 
-Great for devices connected to the same network connected to a ai server(?) without getting confused or misstapping from too many things in different webuis
+Great for devices connected to the same network connected to an ai server(?) without getting confused or misstapping from too many things in different webuis
 
 or your friends wanting to try using an ai at your place without getting too confused on what to do
 
@@ -26,6 +26,5 @@ better ui
 
 ability to change api in menu
 
-exe file
 
 prob more
